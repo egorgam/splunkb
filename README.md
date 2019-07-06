@@ -1,6 +1,6 @@
 # splunkb - custom dashboarding for Splunk based on Flask/Vue.js/MongoDB and SocketIO
 
-UI Framework IBM Carbondesgn https://github.com/dattn/dnd-grid
+UI Framework IBM Carbondesgn https://github.com/carbon-design-system/carbon-components-vue
 
 Features:
 - Based on sheduled reports
