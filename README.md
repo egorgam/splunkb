@@ -1,4 +1,4 @@
-# splunkb - custom dashboarding for Splunk based on Flask/Vue.js/MongoDB and SocketIO
+# splunkb
 
 UI Framework IBM Carbondesgn https://github.com/carbon-design-system/carbon-components-vue
 
@@ -9,4 +9,4 @@ Features:
 - Responsive grid layout for panel dragging (https://github.com/dattn/dnd-grid)
 - Color groups for dashboard panels (https://github.com/xiaokaike/vue-color)
 - [Experimental] Saving panel results in MongoDB
-- Diagrams by Chart.js (https://github.com/apertureless/vue-chartjs)
+- [Future]Diagrams by Chart.js (https://github.com/apertureless/vue-chartjs)
