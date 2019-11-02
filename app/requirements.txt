@@ -16,7 +16,7 @@ Jinja2==2.10.1
 lazy-object-proxy==1.4.1
 MarkupSafe==1.1.1
 mccabe==0.6.1
-python-engineio==3.8.1
+python-engineio==3.8.2.post1
 python-socketio==4.1.0
 python3-utils==0.4.0
 requests==2.22.0
